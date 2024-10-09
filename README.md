@@ -1,0 +1,2 @@
+📘 Exercise Collection Repository
+Welcome to the Exercise Collection repository! 🎉 This repository contains a variety of training exercises designed to help programmers and enthusiasts practice and enhance their coding skills across different topics. The exercises are organized in a structured manner and cover a wide range of concepts, from basic programming to more advanced problem-solving techniques.
